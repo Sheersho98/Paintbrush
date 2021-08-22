@@ -1,7 +1,6 @@
 # Paintbrush
 
 ![Paintbrush](https://i.ibb.co/HPPpbkd/1.png)
-
 ### [Live Site](http://paintbrush.infinityfreeapp.com)
 
 **The add product feature for artists is unavailable on the live version due the mySQL database on the cloud not taking in image files properly. Hosting on a different platform may resolve this issue. </br>
