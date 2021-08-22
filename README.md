@@ -1,6 +1,6 @@
 # Paintbrush
 
-### [Live Site] (paintbrush.infinityfreeapp.com)
+### [Live Site](paintbrush.infinityfreeapp.com)
 
 **The add product feature for artists is unavailable on the live version due the mySQL database on the cloud not taking in image files properly. Hosting on a different platform may resolve this issue. </br>
 
