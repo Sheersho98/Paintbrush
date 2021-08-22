@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url("https://i.pinimg.com/originals/e8/b4/18/e8b4185bc82bb8a12ee2a07e8da1da28.jpg ");
+    image-orientation: absolute;
+    background-color: :#339966;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  .box{
+    width: 500px;
+    height: 100%;
+    padding:40px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+
+    background: rgba(0, 0, 0, 0.85);
+
+  }
+  .box h1{
+
+    font-family: 'Finger Paint', cursive;
+    font-size: 45px;
+    opacity: 1;
+    color: white;
+    text-transform: uppercase;
+
+
+    text-align: center;
+    margin-bottom: 100px;
+
+  }
+  .box h3{
+    font-family: 'Gorditas', cursive;
+    opacity: 1;
+    color: white;
+    text-transform: uppercase;
+
+    font-weight: 400;
+    text-align: center;
+
+  }
+  .box input[type = "text"], .box input[type = "password"]{
+    font-weight: 800;
+    border:0;
+    opacity: 1;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    width: 250px;
+    height: 50px;
+    border: 2px solid #cce6ff;
+    padding: 14px 10px
+
+    outline: none;
+    color:#ffffff;
+    border-radius: 24px;
+    transition: 0.25s;
+  }
+  .box input[type = "text"]:focus, .box input[type = "password"]:focus{
+    width: 200px;
+    border-color: #80c1ff;
+
+  }
+  .box input[type = "submit"]{
+    opacity: 1;
+    height: 45px;
+    width: 90px;
+    border:0;
+    font-weight: 500;
+    font-family: 'Gorditas', cursive;
+    font-size: 15px;
+    text-transform: uppercase;
+    background: none;
+    display: block;
+    margin: 40px auto;
+    text-align: center;
+    border: 2px solid #cce6ff;
+    padding: 14px 20px
+    outline: none;
+    color:white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+  }
+  .box input[type = "submit"]:hover{
+    color: white;
+    background:#4d88ff;
+    width: 120px;
+
+  }
+  .box a:link {
+    opacity: 0.75;
+    height: 20px;
+    width: 150px;
+    border:0;
+    font-weight: 500;
+    font-family: 'Gorditas', cursive;
+    background-color: #809fff;
+    font-size: 15px;
+    /* text-transform: uppercase; */
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    border: 2px solid #99bbff;
+    padding: 15px 25px;
+    outline: none;
+    color:black;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+  }
+  .box a:hover {
+    width: 120px;
+    background-color: #3366ff;
+
+  }
+
+  .header{
+    text-align: center;
+    font-family: 'Monoton', cursive;
+    float: none;
+    font-size: 25px;
+    padding-left: 55px;
+    color: white;
+  }
