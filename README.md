@@ -1,5 +1,4 @@
 # Paintbrush
-### [Live Site](http://paintbrush.infinityfreeapp.com)
 
 ![Paintbrush](https://i.ibb.co/HPPpbkd/1.png)
 
